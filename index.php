@@ -164,8 +164,7 @@ session_start();
     <li><a href="#"> Developed by Biplab,Harsh,pranab </a></li>
       
 	</ul>
-
-
+	  
 
 
 </div>
